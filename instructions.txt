@@ -1,0 +1,4 @@
+Instructions
+
+Run 'yarn install' in the .csproj folder.
+Open .csproj in Visual Studio and continue.
